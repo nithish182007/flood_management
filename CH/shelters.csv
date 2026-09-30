@@ -1,0 +1,21 @@
+shelter_id,name,zone,lat,lon,capacity,current_occupancy,type,facilities,contact,accessible,generator,medical_unit,status
+SH001,Pachaiyappa College,Northern,13.0927,80.2607,3000,0,School,"Food,Water,Medical,Toilets",044-25382801,Yes,Yes,Yes,Ready
+SH002,Bharathi Women College,Northern,13.1027,80.2707,2500,0,College,"Food,Water,Toilets",044-25381901,Yes,No,No,Ready
+SH003,Don Bosco School Velachery,Southern,12.9716,80.2207,2500,0,School,"Food,Water,Medical,Toilets",044-22451801,Yes,Yes,Yes,Ready
+SH004,Anna Nagar Corporation School,Central,13.0827,80.2107,4000,0,School,"Food,Water,Toilets",044-26215801,Yes,No,No,Ready
+SH005,IIT Madras Guest House,Southern,12.9916,80.2307,1500,0,Institute,"Food,Water,Medical,AC",044-22574801,Yes,Yes,Yes,Ready
+SH006,Tambaram Govt Hospital Annex,Southern,12.9216,80.1207,3500,0,Hospital,"Medical,Food,Water",044-22261801,Yes,Yes,Yes,Ready
+SH007,SIET College Thiruvanmiyur,Southern,12.9416,80.2707,2500,0,College,"Food,Water,Toilets",044-24441901,Yes,No,No,Ready
+SH008,Ambattur Industrial Estate Hall,Northern,13.1127,80.1607,5000,0,Industry,"Food,Water,Toilets",044-26341801,Yes,Yes,No,Ready
+SH009,Maduravoyal Govt School,Central,13.0827,80.1507,2800,0,School,"Food,Water,Toilets",044-26541801,Yes,No,No,Ready
+SH010,KK Nagar Panchayat Hall,Central,13.0527,80.2107,2000,0,Government,"Food,Water,Toilets",044-23654801,Yes,No,No,Ready
+SH011,Perumbakkam TNHB Hall,Southern,12.9116,80.2107,3000,0,Government,"Food,Water,Medical",044-24361801,Yes,Yes,Yes,Ready
+SH012,Mambalam Municipal School,Central,13.0327,80.2207,3000,0,School,"Food,Water,Toilets",044-24491801,Yes,No,No,Ready
+SH013,Saidapet Railway Hall,Central,13.0127,80.2207,1800,0,Government,"Food,Water,Toilets",044-22351801,Yes,No,No,Ready
+SH014,Kolathur Corporation School,Northern,13.1027,80.2407,2800,0,School,"Food,Water,Toilets",044-25741801,Yes,No,No,Ready
+SH015,Tambaram Stadium,Southern,12.9216,80.1307,6000,0,Stadium,"Food,Water,Medical,Toilets",044-22271801,Yes,Yes,Yes,Ready
+SH016,Porur Lake Ground Hall,Southern,13.0327,80.1607,3000,0,Government,"Food,Water,Toilets",044-24171801,Yes,No,No,Ready
+SH017,Sholinganallur Panchayat Hall,Southern,12.9016,80.2307,4000,0,Government,"Food,Water,Toilets",044-24091801,Yes,Yes,No,Ready
+SH018,Alandur Municipal Hall,Southern,13.0127,80.2107,2200,0,Government,"Food,Water,Toilets",044-22221801,Yes,No,No,Ready
+SH019,Manali Industrial Zone Hall,Northern,13.1627,80.2707,1500,0,Industry,"Food,Water",044-25421801,Yes,No,No,Ready
+SH020,Pallikaranai Fishermen Hall,Southern,12.9216,80.2007,1500,0,Government,"Food,Water",044-22491801,No,No,No,Ready

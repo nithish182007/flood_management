@@ -1,0 +1,16 @@
+station_id,station_name,zone,lat,lon,type,current_rainfall_mm,24h_rainfall_mm,72h_rainfall_mm,alert_threshold_mm,critical_threshold_mm,water_level_m,water_level_max_m,status,last_updated
+RS001,Nungambakkam,Central,13.0600,80.2400,IMD_AWS,0,42.5,185.2,50,100,2.1,3.5,Normal,2024-01-15 06:00
+RS002,Meenambakkam,Southern,12.9900,80.1800,IMD_AWS,0,38.2,165.8,50,100,1.8,3.0,Normal,2024-01-15 06:00
+RS003,Chembarambakkam,Southern,13.0100,80.0600,WRD_Gauge,0,55.4,210.5,60,120,18.2,24.0,Normal,2024-01-15 06:00
+RS004,Poondi Reservoir,Northern,13.3200,79.9700,WRD_Gauge,0,32.1,142.3,45,90,60.2,70.5,Normal,2024-01-15 06:00
+RS005,Red Hills,Northern,13.1900,80.1800,WRD_Gauge,0,28.5,128.6,45,90,45.1,52.0,Normal,2024-01-15 06:00
+RS006,Cholavaram,Northern,13.2200,80.1900,WRD_Gauge,0,30.2,135.4,45,90,38.5,45.0,Normal,2024-01-15 06:00
+RS007,Otteri,Northern,13.0900,80.2600,GCC_Sensor,2.1,48.5,198.4,55,110,1.4,2.0,Watch,2024-01-15 06:00
+RS008,Velachery,Southern,12.9700,80.2200,GCC_Sensor,1.8,52.3,220.1,55,110,1.6,2.2,Watch,2024-01-15 06:00
+RS009,Adyar Bridge,Southern,13.0000,80.2500,WRD_Gauge,0,45.2,192.3,55,110,3.2,5.5,Normal,2024-01-15 06:00
+RS010,Cooum Napier,Central,13.0800,80.2900,WRD_Gauge,0,40.1,175.6,50,100,1.8,3.2,Normal,2024-01-15 06:00
+RS011,Pallikaranai,Southern,12.9200,80.2000,GCC_Sensor,0,35.8,158.9,45,90,0.8,1.5,Normal,2024-01-15 06:00
+RS012,Ambattur,Northern,13.1100,80.1600,GCC_Sensor,0,25.4,112.8,45,90,0.5,1.2,Normal,2024-01-15 06:00
+RS013,Virugambakkam,Central,13.0500,80.2000,GCC_Sensor,1.2,44.2,188.5,50,100,1.2,1.8,Watch,2024-01-15 06:00
+RS014,Kolathur,Northern,13.1000,80.2400,GCC_Sensor,0,30.5,132.4,45,90,0.9,1.6,Normal,2024-01-15 06:00
+RS015,Tambaram,Southern,12.9200,80.1200,GCC_Sensor,0,22.1,98.5,45,90,0.4,1.0,Normal,2024-01-15 06:00

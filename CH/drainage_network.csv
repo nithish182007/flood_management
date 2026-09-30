@@ -1,0 +1,16 @@
+drain_id,name,type,basin,length_km,capacity_cusec,current_flow_cusec,condition,lat_start,lon_start,lat_end,lon_end,last_desilted,encroachment_pct,risk_level
+DR001,Cooum River,River,Central,18.0,19500,8200,Fair,13.0827,80.2707,13.0843,80.2992,2023-06-15,12,High
+DR002,Adyar River,River,Southern,15.0,39000,14500,Poor,12.9716,80.1462,12.9962,80.2707,2022-11-20,18,Critical
+DR003,Kosasthalaiyar River,River,Northern,16.0,110000,35000,Good,13.1827,80.2607,13.2043,80.3292,2023-08-10,5,Medium
+DR004,North Buckingham Canal,Canal,Eastern,17.1,10500,4200,Fair,13.1127,80.2907,13.0827,80.2992,2023-05-20,22,High
+DR005,Central Buckingham Canal,Canal,Eastern,7.2,1500,800,Poor,13.0527,80.2707,13.0327,80.2592,2022-08-15,35,Critical
+DR006,South Buckingham Canal,Canal,Eastern,16.9,6000,2800,Fair,12.9916,80.2507,12.9016,80.2507,2023-03-10,15,High
+DR007,Otteri Nullah,Drain,Northern,10.2,1800,950,Poor,13.0927,80.2607,13.0827,80.2792,2022-06-20,28,Critical
+DR008,Virugambakkam Drain,Drain,Central,6.36,2100,1100,Fair,13.0527,80.2007,13.0527,80.2407,2023-07-15,20,High
+DR009,Kodungaiyur Drain,Drain,Northern,6.9,1060,420,Good,13.1327,80.2807,13.1127,80.2907,2023-09-05,8,Low
+DR010,Captain Cotton Canal,Canal,Northern,6.9,1950,780,Fair,13.1127,80.2807,13.0927,80.2907,2023-04-20,18,Medium
+DR011,Velachery Drain,Drain,Southern,2.14,655,380,Poor,12.9716,80.2207,12.9616,80.2407,2022-09-10,42,Critical
+DR012,Veerangal Odai,Drain,Southern,2.78,654,290,Fair,12.9316,80.2107,12.9116,80.2307,2023-02-15,25,High
+DR013,Pappan Channel,Channel,Southern,4.5,800,450,Poor,12.9116,80.0907,12.9316,80.1207,2022-07-20,38,Critical
+DR014,Mambalam Drain,Drain,Central,3.2,600,280,Fair,13.0327,80.2307,13.0127,80.2407,2023-06-10,22,High
+DR015,Ambattur Tank Surplus,Channel,Northern,5.8,1830,650,Good,13.1127,80.1607,13.0927,80.1907,2023-08-20,10,Medium
